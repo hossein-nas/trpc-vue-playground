@@ -1,0 +1,8 @@
+
+.Header {
+  text-align: left;
+  padding: 1rem 0;
+  > * + * {
+    margin-left: 1rem;
+  }
+}
